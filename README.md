@@ -33,7 +33,7 @@ I work across front-end, back-end, and databases. Some tools and languages I use
 
 ## Connect with Me
 - GitHub: [Krithi-DA](https://github.com/Krithi-DA)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krithi-da) (replace with your URL)
+- LinkedIn: [Krithi D A](https://www.linkedin.com/in/krithi-da) (replace with your URL)
 
 ---
 
