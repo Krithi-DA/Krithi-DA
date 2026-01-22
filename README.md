@@ -1,6 +1,8 @@
 
 Hey ! I'm Krithi D A ✨💻
+
 Aspiring Software Developer | IT Graduate | Passionate About Tech
+
 🌟 About Me:
 🎓 B.E in Computer Science and Engineering - Vivekananda College of Engineering and Technology (2021-2025)
 💡 Passionate about Web Development and Software Engineering
@@ -8,7 +10,6 @@ Aspiring Software Developer | IT Graduate | Passionate About Tech
 🌸 Fun Fact: I enjoy designing and exploring new tech trends! 🎮💖
 🔗 Connect with Me:
 GitHub LinkedIn
-
 💻 Tech Stack:
 Java C HTML5 CSS3 JavaScript
 React MySQL Python Manual testing
