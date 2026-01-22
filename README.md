@@ -15,12 +15,6 @@ GitHub LinkedIn
 Java C HTML5 CSS3 JavaScript
 React MySQL Python Manual testing
 
-📊 GitHub Stats:
-Krithi's GitHub Stats
-Top Langs
-
-🏆 GitHub Trophies:a
-GitHub Trophies
 
 🚀 Let's Collaborate!
 💬 Open to discussions and collaborations in Software Development and Feel free to connect. ✨
