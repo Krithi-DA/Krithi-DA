@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I'm Krithi — a curious and driven Computer Science graduate from Vivekananda College of Engineering and Technology. I enjoy building web apps, learning new technologies, and turning ideas into reality. I care about good design, readable code, and continuous improvement.
+I'm Krithi - a curious and driven Computer Science graduate from Vivekananda College of Engineering and Technology. I enjoy building web apps, learning new technologies, and turning ideas into reality. I care about good design, readable code, and continuous improvement.
 
 - 🎓 B.E. in Computer Science & Engineering (2021–2025)  
 - 💡 Interests: Web Development, Software Engineering, System Design  
