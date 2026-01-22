@@ -10,6 +10,7 @@ Aspiring Software Developer | IT Graduate | Passionate About Tech
 🌸 Fun Fact: I enjoy designing and exploring new tech trends! 🎮💖
 🔗 Connect with Me:
 GitHub LinkedIn
+
 💻 Tech Stack:
 Java C HTML5 CSS3 JavaScript
 React MySQL Python Manual testing
