@@ -19,7 +19,7 @@ React MySQL Python Manual testing
 Krithi's GitHub Stats
 Top Langs
 
-🏆 GitHub Trophies:
+🏆 GitHub Trophies:a
 GitHub Trophies
 
 🚀 Let's Collaborate!
